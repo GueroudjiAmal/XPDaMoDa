@@ -1,0 +1,4 @@
+data failure:  {'start': 1713468461.5728865, 'stop': 1713468461.6207976, 'middle': 1713468461.5408566, 'duration': 0.04791116714477539, 'who': 'tcp://10.201.3.228:35275', 'keys': "{'transform-033ab468-e9ae-487b-a61b-3290d418fcb8': 80, 'transform-46549d2c-0ef3-40ce-b991-5c298e1b066c': 80, 'transform-54ac6c0d-a13f-4fdd-8aa7-495c735cfd1b': 80}", 'total': 240, 'compressed': 1807682, 'bandwidth': 5009.270579336565, 'type': 'outgoing_transfer', 'called_from': 'tcp://10.201.3.244:33309', 'time': 1713468461.626704 
+
+
+Total time taken  = 195.74s
