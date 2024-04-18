@@ -1,0 +1,3 @@
+data failure:  data failure:  {'key': "('chunk_max-getitem-gt-max-aggregate-stack-b4b92b70b53be1d3b50e36696c31dac6', 19, 0, 0)", 'thread': None, 'worker': None, 'prefix': 'chunk_max-getitem-gt-max-aggregate-stack', 'group': 'chunk_max-getitem-gt-max-aggregate-stack-b4b92b70b53be1d3b50e36696c31dac6', 'start': 'released', 'finish': 'forgotten', 'stimulus_id': 'client-releases-keys-1713455861.5364244', 'called_from': 'tcp://10.201.3.245:8786', 'begins': None, 'ends': None, 'duration': None, 'size': None, 'time': 1713455861. 
+
+Total time taken  = 203.38s

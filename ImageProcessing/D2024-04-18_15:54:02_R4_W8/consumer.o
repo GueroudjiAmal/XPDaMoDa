@@ -1,0 +1,3 @@
+data failure:  {'key': "('block-info-_map_read_frame-c50155175b03e4c1ec9664317841e345', 49, 0, 0, 0)", 'thread': 22479226941440, 'worker': 'tcp://10.201.2.127:35149', 'prefix': 'block-info', 'group': 'block-info-_map_read_frame-c50155175b03e4c1ec9664317841e345', 'start': 'processing', 'finish': 'memory', 'stimulus_id': 'task-finished-1713455733.708745', 'called_from': 'tcp://10.201.2.223:8786', 'begins': 1713455733.7963834, 'ends': 1713455733.7965455, 'duration': 0.0001621246337890625, 'size': 3324, 'time': 1713455734.0270
+
+Total time taken  = 153.45s
