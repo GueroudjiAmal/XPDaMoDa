@@ -1,0 +1,5 @@
+04/19/2024 07:01:33 PM Mofka topic Dask is created
+04/19/2024 07:01:33 PM Mofka topic Dask is opened by MofkaPlugin
+04/19/2024 07:01:33 PM Mofka producer Dask_scheduler_producer is created
+04/19/2024 07:01:41 PM Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+04/19/2024 07:01:44 PM netCDF4 is not available. Writing AMBER ncdf files will be slow.
