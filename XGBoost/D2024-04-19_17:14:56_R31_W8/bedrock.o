@@ -1,0 +1,22 @@
+[2024-04-19 17:15:51.674] [info] [yokan] YOKAN provider registration done
+[2024-04-19 17:15:51.674] [info] Bedrock daemon now running at ofi+cxi://0x2013d600
+[2024-04-19 17:41:15.597] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.607] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.608] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.610] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.611] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.613] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.614] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.616] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.617] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.619] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.620] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.622] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.623] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.625] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.626] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.628] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.629] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.631] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.632] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:41:15.633] [info] [yokan] YOKAN provider successfuly finalized

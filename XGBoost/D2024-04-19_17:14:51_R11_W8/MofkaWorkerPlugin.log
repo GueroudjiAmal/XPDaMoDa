@@ -1,0 +1,2 @@
+04/19/2024 05:15:26 PM Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit 04/19/2024 05:15:26 PM Mofka producer Dask_worker_producer is created
+04/19/2024 05:15:27 PM Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.

@@ -1,0 +1,19 @@
+04/19/2024 05:40:28 PM Mofka topic Dask is created
+04/19/2024 05:40:28 PM Mofka topic Dask is opened by MofkaPlugin
+04/19/2024 05:40:28 PM Mofka producer Dask_scheduler_producer is created
+04/19/2024 05:40:31 PM Note: NumExpr detected 64 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+04/19/2024 05:51:29 PM start listen on 10.201.2.154:60817
+04/19/2024 05:51:30 PM @tracker All of 8 nodes getting started
+04/19/2024 05:53:45 PM @tracker All nodes finishes job
+04/19/2024 05:54:35 PM start listen on 10.201.2.145:52029
+04/19/2024 05:54:35 PM @tracker All of 8 nodes getting started
+04/19/2024 05:56:59 PM @tracker All nodes finishes job
+04/19/2024 05:57:44 PM start listen on 10.201.2.154:51113
+04/19/2024 05:57:45 PM @tracker All of 8 nodes getting started
+04/19/2024 05:59:49 PM @tracker All nodes finishes job
+04/19/2024 06:00:36 PM start listen on 10.201.2.154:46537
+04/19/2024 06:00:37 PM @tracker All of 8 nodes getting started
+04/19/2024 06:02:44 PM @tracker All nodes finishes job
+04/19/2024 06:03:52 PM start listen on 10.201.2.154:37759
+04/19/2024 06:03:53 PM @tracker All of 8 nodes getting started
+04/19/2024 06:05:53 PM @tracker All nodes finishes job

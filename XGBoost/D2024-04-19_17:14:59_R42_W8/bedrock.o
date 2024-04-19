@@ -1,0 +1,8 @@
+[2024-04-19 17:16:07.374] [info] [yokan] YOKAN provider registration done
+[2024-04-19 17:16:07.374] [info] Bedrock daemon now running at ofi+cxi://0x2031d600
+[2024-04-19 17:43:11.823] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:43:11.832] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:43:11.834] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:43:11.835] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:43:11.837] [warning] Ignoring thallium_generic_rpc RPC because margo is finalizing
+[2024-04-19 17:43:11.837] [info] [yokan] YOKAN provider successfuly finalized
